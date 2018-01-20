@@ -1,0 +1,16 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 08D6-DEFF
+
+ Directory of C:\Users\arpan\Documents\test-repo
+
+01/19/2018  06:23 PM    <DIR>          .
+01/19/2018  06:23 PM    <DIR>          ..
+01/19/2018  06:23 PM                 0 a.txt
+01/19/2018  05:56 PM                41 test1
+01/19/2018  05:56 PM                 0 test2
+01/19/2018  05:56 PM                 0 test3
+01/19/2018  05:56 PM                 0 test4
+01/19/2018  05:56 PM                 0 test5
+01/19/2018  05:56 PM                 0 test6
+               7 File(s)             41 bytes
+               2 Dir(s)  795,003,543,552 bytes free
